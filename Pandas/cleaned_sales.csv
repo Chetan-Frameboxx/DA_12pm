@@ -1,0 +1,301 @@
+OrderID,Customer,Region,Category,Product,Quantity,Sales,Date,Total,Profit,cust_len_before,Customer_clean,cust_len_after,Year,Month,Day,YearMonth
+1001,Vikas,North,Accessories,Mobile,1,13875,2023-01-01,13875,2775.0,5,vikas,5,2023,January,1,2023-01
+1002,Sneha,West,Clothing,Shirt,6,2622,2023-01-02,15732,524.4,5,sneha,5,2023,January,2,2023-01
+1003,Anita,North,Home Appliances,Fridge,5,49756,2023-01-03,248780,9951.2,5,anita,5,2023,January,3,2023-01
+1004,Karan,North,Electronics,Camera,4,41809,2023-01-04,167236,8361.800000000001,5,karan,5,2023,January,4,2023-01
+1005,Vikas,South,Home Appliances,Fridge,3,17725,2023-01-05,53175,3545.0,5,vikas,5,2023,January,5,2023-01
+1006,Neha,North,Electronics,Mobile,1,41760,2023-01-06,41760,8352.0,4,neha,4,2023,January,6,2023-01
+1007,Ravi,East,Accessories,Mobile,6,16646,2023-01-07,99876,3329.2000000000003,4,ravi,4,2023,January,7,2023-01
+1008,Vikas,East,Electronics,Mobile,2,18029,2023-01-08,36058,3605.8,5,vikas,5,2023,January,8,2023-01
+1009,Anita,West,Accessories,Microwave,8,30402,2023-01-09,243216,6080.400000000001,5,anita,5,2023,January,9,2023-01
+1010,Karan,North,Electronics,Microwave,5,5263,2023-01-10,26315,1052.6,5,karan,5,2023,January,10,2023-01
+1011,Sneha,West,Accessories,Headphones,7,31987,2023-01-11,223909,6397.400000000001,5,sneha,5,2023,January,11,2023-01
+1012,Anita,East,Electronics,Headphones,2,47828,2023-01-12,95656,9565.6,5,anita,5,2023,January,12,2023-01
+1013,Anita,North,Clothing,Mobile,8,48924,2023-01-13,391392,9784.8,5,anita,5,2023,January,13,2023-01
+1014,Ravi,North,Electronics,Shirt,2,9646,2023-01-14,19292,1929.2,4,ravi,4,2023,January,14,2023-01
+1015,Pooja,West,Electronics,Laptop,4,28529,2023-01-15,114116,5705.8,5,pooja,5,2023,January,15,2023-01
+1016,Karan,East,Clothing,Microwave,1,12664,2023-01-16,12664,2532.8,5,karan,5,2023,January,16,2023-01
+1017,Priya,North,Home Appliances,Shirt,5,36737,2023-01-17,183685,7347.400000000001,5,priya,5,2023,January,17,2023-01
+1018,Anita,West,Home Appliances,Jeans,9,36796,2023-01-18,331164,7359.200000000001,5,anita,5,2023,January,18,2023-01
+1019,Pooja,East,Electronics,Microwave,1,25027,2023-01-19,25027,5005.400000000001,5,pooja,5,2023,January,19,2023-01
+1020,Priya,West,Clothing,Microwave,9,30373,2023-01-20,273357,6074.6,5,priya,5,2023,January,20,2023-01
+1021,Karan,South,Electronics,Headphones,8,37397,2023-01-21,299176,7479.400000000001,5,karan,5,2023,January,21,2023-01
+1022,Amit,North,Accessories,Laptop,6,21609,2023-01-22,129654,4321.8,4,amit,4,2023,January,22,2023-01
+1023,Neha,South,Accessories,Laptop,7,36835,2023-01-23,257845,7367.0,4,neha,4,2023,January,23,2023-01
+1024,Pooja,East,Electronics,Camera,3,39709,2023-01-24,119127,7941.8,5,pooja,5,2023,January,24,2023-01
+1025,Deepak,South,Home Appliances,Fridge,1,20250,2023-01-25,20250,4050.0,6,deepak,6,2023,January,25,2023-01
+1026,Amit,South,Home Appliances,Fridge,5,22172,2023-01-26,110860,4434.400000000001,4,amit,4,2023,January,26,2023-01
+1027,Neha,East,Electronics,Fridge,2,12555,2023-01-27,25110,2511.0,4,neha,4,2023,January,27,2023-01
+1028,Ravi,West,Electronics,Fridge,5,22874,2023-01-28,114370,4574.8,4,ravi,4,2023,January,28,2023-01
+1029,Vikas,South,Accessories,Jeans,8,14081,2023-01-29,112648,2816.2000000000003,5,vikas,5,2023,January,29,2023-01
+1030,Sneha,West,Home Appliances,Jeans,9,25063,2023-01-30,225567,5012.6,5,sneha,5,2023,January,30,2023-01
+1031,Deepak,South,Electronics,Microwave,2,7819,2023-01-31,15638,1563.8000000000002,6,deepak,6,2023,January,31,2023-01
+1032,Ravi,West,Accessories,Mobile,3,26712,2023-02-01,80136,5342.400000000001,4,ravi,4,2023,February,1,2023-02
+1033,Karan,East,Home Appliances,Headphones,3,25762,2023-02-02,77286,5152.400000000001,5,karan,5,2023,February,2,2023-02
+1034,Ravi,South,Clothing,Headphones,1,12046,2023-02-03,12046,2409.2000000000003,4,ravi,4,2023,February,3,2023-02
+1035,Vikas,East,Accessories,Fridge,8,32463,2023-02-04,259704,6492.6,5,vikas,5,2023,February,4,2023-02
+1036,Karan,South,Home Appliances,Microwave,6,29769,2023-02-05,178614,5953.8,5,karan,5,2023,February,5,2023-02
+1037,Deepak,East,Home Appliances,Camera,8,24150,2023-02-06,193200,4830.0,6,deepak,6,2023,February,6,2023-02
+1038,Vikas,East,Accessories,Shirt,9,3711,2023-02-07,33399,742.2,5,vikas,5,2023,February,7,2023-02
+1039,Priya,South,Clothing,Mobile,5,5853,2023-02-08,29265,1170.6,5,priya,5,2023,February,8,2023-02
+1040,Sneha,South,Accessories,Microwave,3,30077,2023-02-09,90231,6015.400000000001,5,sneha,5,2023,February,9,2023-02
+1041,Deepak,South,Home Appliances,Mobile,5,24863,2023-02-10,124315,4972.6,6,deepak,6,2023,February,10,2023-02
+1042,Priya,North,Electronics,Mobile,5,22792,2023-02-11,113960,4558.400000000001,5,priya,5,2023,February,11,2023-02
+1043,Neha,West,Electronics,Mobile,5,41483,2023-02-12,207415,8296.6,4,neha,4,2023,February,12,2023-02
+1044,Deepak,North,Accessories,Microwave,3,9942,2023-02-13,29826,1988.4,6,deepak,6,2023,February,13,2023-02
+1045,Neha,North,Home Appliances,Fridge,4,49275,2023-02-14,197100,9855.0,4,neha,4,2023,February,14,2023-02
+1046,Karan,East,Electronics,Headphones,9,49594,2023-02-15,446346,9918.8,5,karan,5,2023,February,15,2023-02
+1047,Priya,South,Home Appliances,Headphones,9,2762,2023-02-16,24858,552.4,5,priya,5,2023,February,16,2023-02
+1048,Sneha,West,Accessories,Fridge,2,32987,2023-02-17,65974,6597.400000000001,5,sneha,5,2023,February,17,2023-02
+1049,Vikas,East,Electronics,Mobile,8,16850,2023-02-18,134800,3370.0,5,vikas,5,2023,February,18,2023-02
+1050,Anita,North,Home Appliances,Shirt,8,13112,2023-02-19,104896,2622.4,5,anita,5,2023,February,19,2023-02
+1051,Ravi,South,Electronics,Laptop,7,25058,2023-02-20,175406,5011.6,4,ravi,4,2023,February,20,2023-02
+1052,Amit,East,Accessories,Microwave,8,46420,2023-02-21,371360,9284.0,4,amit,4,2023,February,21,2023-02
+1053,Sneha,South,Home Appliances,Laptop,3,39890,2023-02-22,119670,7978.0,5,sneha,5,2023,February,22,2023-02
+1054,Priya,East,Electronics,Camera,6,1481,2023-02-23,8886,296.2,5,priya,5,2023,February,23,2023-02
+1055,Anita,South,Accessories,Fridge,1,48304,2023-02-24,48304,9660.8,5,anita,5,2023,February,24,2023-02
+1056,Sneha,North,Electronics,Shirt,7,33921,2023-02-25,237447,6784.200000000001,5,sneha,5,2023,February,25,2023-02
+1057,Priya,West,Electronics,Microwave,1,41385,2023-02-26,41385,8277.0,5,priya,5,2023,February,26,2023-02
+1058,Pooja,North,Clothing,Fridge,9,2524,2023-02-27,22716,504.8,5,pooja,5,2023,February,27,2023-02
+1059,Pooja,West,Clothing,Mobile,1,35888,2023-02-28,35888,7177.6,5,pooja,5,2023,February,28,2023-02
+1060,Neha,South,Accessories,Headphones,1,16048,2023-03-01,16048,3209.6000000000004,4,neha,4,2023,March,1,2023-03
+1061,Sneha,East,Clothing,Laptop,7,36111,2023-03-02,252777,7222.200000000001,5,sneha,5,2023,March,2,2023-03
+1062,Pooja,North,Accessories,Jeans,2,38904,2023-03-03,77808,7780.8,5,pooja,5,2023,March,3,2023-03
+1063,Priya,West,Clothing,Jeans,5,35008,2023-03-04,175040,7001.6,5,priya,5,2023,March,4,2023-03
+1064,Neha,North,Electronics,Shirt,8,1060,2023-03-05,8480,212.0,4,neha,4,2023,March,5,2023-03
+1065,Priya,West,Accessories,Mobile,8,10130,2023-03-06,81040,2026.0,5,priya,5,2023,March,6,2023-03
+1066,Neha,North,Accessories,Camera,3,19023,2023-03-07,57069,3804.6,4,neha,4,2023,March,7,2023-03
+1067,Sneha,West,Electronics,Laptop,7,46080,2023-03-08,322560,9216.0,5,sneha,5,2023,March,8,2023-03
+1068,Anita,West,Accessories,Mobile,3,14350,2023-03-09,43050,2870.0,5,anita,5,2023,March,9,2023-03
+1069,Vikas,South,Accessories,Laptop,6,25354,2023-03-10,152124,5070.8,5,vikas,5,2023,March,10,2023-03
+1070,Deepak,West,Clothing,Shirt,6,46186,2023-03-11,277116,9237.2,6,deepak,6,2023,March,11,2023-03
+1071,Anita,South,Accessories,Shirt,3,29145,2023-03-12,87435,5829.0,5,anita,5,2023,March,12,2023-03
+1072,Karan,West,Home Appliances,Camera,7,35020,2023-03-13,245140,7004.0,5,karan,5,2023,March,13,2023-03
+1073,Priya,East,Electronics,Jeans,3,21587,2023-03-14,64761,4317.400000000001,5,priya,5,2023,March,14,2023-03
+1074,Karan,East,Clothing,Mobile,8,42131,2023-03-15,337048,8426.2,5,karan,5,2023,March,15,2023-03
+1075,Anita,East,Clothing,Microwave,4,10650,2023-03-16,42600,2130.0,5,anita,5,2023,March,16,2023-03
+1076,Neha,West,Home Appliances,Jeans,1,20933,2023-03-17,20933,4186.6,4,neha,4,2023,March,17,2023-03
+1077,Deepak,South,Electronics,Mobile,4,21581,2023-03-18,86324,4316.2,6,deepak,6,2023,March,18,2023-03
+1078,Deepak,South,Electronics,Jeans,7,24393,2023-03-19,170751,4878.6,6,deepak,6,2023,March,19,2023-03
+1079,Amit,West,Clothing,Microwave,4,24051,2023-03-20,96204,4810.2,4,amit,4,2023,March,20,2023-03
+1080,Deepak,East,Accessories,Headphones,6,27212,2023-03-21,163272,5442.400000000001,6,deepak,6,2023,March,21,2023-03
+1081,Vikas,East,Clothing,Headphones,9,5090,2023-03-22,45810,1018.0,5,vikas,5,2023,March,22,2023-03
+1082,Deepak,South,Electronics,Camera,1,7960,2023-03-23,7960,1592.0,6,deepak,6,2023,March,23,2023-03
+1083,Anita,East,Home Appliances,Headphones,5,36772,2023-03-24,183860,7354.400000000001,5,anita,5,2023,March,24,2023-03
+1084,Amit,North,Clothing,Headphones,7,22520,2023-03-25,157640,4504.0,4,amit,4,2023,March,25,2023-03
+1085,Anita,South,Electronics,Fridge,1,37408,2023-03-26,37408,7481.6,5,anita,5,2023,March,26,2023-03
+1086,Anita,East,Clothing,Laptop,4,29470,2023-03-27,117880,5894.0,5,anita,5,2023,March,27,2023-03
+1087,Ravi,South,Accessories,Fridge,6,21491,2023-03-28,128946,4298.2,4,ravi,4,2023,March,28,2023-03
+1088,Amit,North,Clothing,Fridge,2,2341,2023-03-29,4682,468.2000000000001,4,amit,4,2023,March,29,2023-03
+1089,Anita,South,Clothing,Camera,5,45623,2023-03-30,228115,9124.6,5,anita,5,2023,March,30,2023-03
+1090,Ravi,South,Electronics,Fridge,1,25791,2023-03-31,25791,5158.200000000001,4,ravi,4,2023,March,31,2023-03
+1091,Ravi,South,Electronics,Headphones,6,1338,2023-04-01,8028,267.6,4,ravi,4,2023,April,1,2023-04
+1092,Amit,South,Electronics,Microwave,6,6895,2023-04-02,41370,1379.0,4,amit,4,2023,April,2,2023-04
+1093,Karan,North,Clothing,Camera,4,13254,2023-04-03,53016,2650.8,5,karan,5,2023,April,3,2023-04
+1094,Neha,West,Accessories,Camera,8,12344,2023-04-04,98752,2468.8,4,neha,4,2023,April,4,2023-04
+1095,Vikas,South,Home Appliances,Shirt,4,2750,2023-04-05,11000,550.0,5,vikas,5,2023,April,5,2023-04
+1096,Neha,South,Home Appliances,Camera,8,3421,2023-04-06,27368,684.2,4,neha,4,2023,April,6,2023-04
+1097,Deepak,East,Electronics,Shirt,8,40887,2023-04-07,327096,8177.400000000001,6,deepak,6,2023,April,7,2023-04
+1098,Vikas,South,Electronics,Camera,5,6319,2023-04-08,31595,1263.8000000000002,5,vikas,5,2023,April,8,2023-04
+1099,Deepak,East,Clothing,Laptop,4,16896,2023-04-09,67584,3379.2000000000003,6,deepak,6,2023,April,9,2023-04
+1100,Anita,West,Home Appliances,Headphones,2,12918,2023-04-10,25836,2583.6000000000004,5,anita,5,2023,April,10,2023-04
+1101,Priya,North,Electronics,Camera,3,26064,2023-04-11,78192,5212.8,5,priya,5,2023,April,11,2023-04
+1102,Amit,North,Accessories,Headphones,3,47617,2023-04-12,142851,9523.4,4,amit,4,2023,April,12,2023-04
+1103,Vikas,West,Accessories,Headphones,4,28935,2023-04-13,115740,5787.0,5,vikas,5,2023,April,13,2023-04
+1104,Vikas,North,Electronics,Jeans,4,38641,2023-04-14,154564,7728.200000000001,5,vikas,5,2023,April,14,2023-04
+1105,Anita,West,Electronics,Camera,5,30711,2023-04-15,153555,6142.200000000001,5,anita,5,2023,April,15,2023-04
+1106,Karan,West,Home Appliances,Mobile,4,5806,2023-04-16,23224,1161.2,5,karan,5,2023,April,16,2023-04
+1107,Ravi,West,Home Appliances,Jeans,8,42360,2023-04-17,338880,8472.0,4,ravi,4,2023,April,17,2023-04
+1108,Anita,North,Clothing,Mobile,6,13182,2023-04-18,79092,2636.4,5,anita,5,2023,April,18,2023-04
+1109,Pooja,East,Home Appliances,Headphones,6,23297,2023-04-19,139782,4659.400000000001,5,pooja,5,2023,April,19,2023-04
+1110,Ravi,West,Accessories,Headphones,8,20541,2023-04-20,164328,4108.2,4,ravi,4,2023,April,20,2023-04
+1111,Amit,South,Accessories,Jeans,7,29921,2023-04-21,209447,5984.200000000001,4,amit,4,2023,April,21,2023-04
+1112,Ravi,North,Electronics,Jeans,8,17774,2023-04-22,142192,3554.8,4,ravi,4,2023,April,22,2023-04
+1113,Karan,West,Home Appliances,Mobile,2,45813,2023-04-23,91626,9162.6,5,karan,5,2023,April,23,2023-04
+1114,Ravi,West,Clothing,Shirt,9,38198,2023-04-24,343782,7639.6,4,ravi,4,2023,April,24,2023-04
+1115,Amit,South,Accessories,Mobile,1,9820,2023-04-25,9820,1964.0,4,amit,4,2023,April,25,2023-04
+1116,Karan,East,Accessories,Jeans,8,25070,2023-04-26,200560,5014.0,5,karan,5,2023,April,26,2023-04
+1117,Neha,East,Clothing,Microwave,4,5232,2023-04-27,20928,1046.4,4,neha,4,2023,April,27,2023-04
+1118,Vikas,East,Clothing,Jeans,4,12122,2023-04-28,48488,2424.4,5,vikas,5,2023,April,28,2023-04
+1119,Vikas,West,Accessories,Microwave,5,16023,2023-04-29,80115,3204.6000000000004,5,vikas,5,2023,April,29,2023-04
+1120,Deepak,West,Accessories,Laptop,8,9007,2023-04-30,72056,1801.4,6,deepak,6,2023,April,30,2023-04
+1121,Neha,West,Clothing,Jeans,5,18905,2023-05-01,94525,3781.0,4,neha,4,2023,May,1,2023-05
+1122,Neha,North,Accessories,Laptop,8,42786,2023-05-02,342288,8557.2,4,neha,4,2023,May,2,2023-05
+1123,Ravi,South,Electronics,Shirt,1,30398,2023-05-03,30398,6079.6,4,ravi,4,2023,May,3,2023-05
+1124,Vikas,West,Electronics,Mobile,9,35268,2023-05-04,317412,7053.6,5,vikas,5,2023,May,4,2023-05
+1125,Amit,South,Clothing,Microwave,6,7737,2023-05-05,46422,1547.4,4,amit,4,2023,May,5,2023-05
+1126,Sneha,South,Home Appliances,Mobile,3,37062,2023-05-06,111186,7412.400000000001,5,sneha,5,2023,May,6,2023-05
+1127,Sneha,East,Clothing,Laptop,8,26510,2023-05-07,212080,5302.0,5,sneha,5,2023,May,7,2023-05
+1128,Karan,North,Clothing,Microwave,9,20426,2023-05-08,183834,4085.2,5,karan,5,2023,May,8,2023-05
+1129,Vikas,West,Home Appliances,Mobile,6,38265,2023-05-09,229590,7653.0,5,vikas,5,2023,May,9,2023-05
+1130,Vikas,East,Home Appliances,Jeans,7,18850,2023-05-10,131950,3770.0,5,vikas,5,2023,May,10,2023-05
+1131,Sneha,East,Home Appliances,Headphones,1,1614,2023-05-11,1614,322.8,5,sneha,5,2023,May,11,2023-05
+1132,Vikas,West,Electronics,Laptop,5,22776,2023-05-12,113880,4555.2,5,vikas,5,2023,May,12,2023-05
+1133,Ravi,South,Accessories,Mobile,5,25077,2023-05-13,125385,5015.400000000001,4,ravi,4,2023,May,13,2023-05
+1134,Pooja,East,Electronics,Laptop,4,10374,2023-05-14,41496,2074.8,5,pooja,5,2023,May,14,2023-05
+1135,Priya,South,Accessories,Fridge,6,36435,2023-05-15,218610,7287.0,5,priya,5,2023,May,15,2023-05
+1136,Neha,North,Electronics,Laptop,7,31907,2023-05-16,223349,6381.400000000001,4,neha,4,2023,May,16,2023-05
+1137,Deepak,South,Accessories,Microwave,9,14409,2023-05-17,129681,2881.8,6,deepak,6,2023,May,17,2023-05
+1138,Karan,North,Electronics,Fridge,1,17514,2023-05-18,17514,3502.8,5,karan,5,2023,May,18,2023-05
+1139,Pooja,South,Home Appliances,Camera,6,30866,2023-05-19,185196,6173.200000000001,5,pooja,5,2023,May,19,2023-05
+1140,Sneha,East,Clothing,Microwave,7,3983,2023-05-20,27881,796.6,5,sneha,5,2023,May,20,2023-05
+1141,Neha,East,Electronics,Headphones,3,32705,2023-05-21,98115,6541.0,4,neha,4,2023,May,21,2023-05
+1142,Vikas,North,Accessories,Fridge,8,21662,2023-05-22,173296,4332.400000000001,5,vikas,5,2023,May,22,2023-05
+1143,Deepak,West,Home Appliances,Camera,5,24510,2023-05-23,122550,4902.0,6,deepak,6,2023,May,23,2023-05
+1144,Vikas,North,Electronics,Jeans,9,13651,2023-05-24,122859,2730.2000000000003,5,vikas,5,2023,May,24,2023-05
+1145,Amit,North,Electronics,Laptop,5,41998,2023-05-25,209990,8399.6,4,amit,4,2023,May,25,2023-05
+1146,Amit,South,Home Appliances,Mobile,9,29535,2023-05-26,265815,5907.0,4,amit,4,2023,May,26,2023-05
+1147,Deepak,South,Electronics,Shirt,4,7640,2023-05-27,30560,1528.0,6,deepak,6,2023,May,27,2023-05
+1148,Deepak,North,Clothing,Laptop,9,45547,2023-05-28,409923,9109.4,6,deepak,6,2023,May,28,2023-05
+1149,Sneha,East,Electronics,Camera,5,16317,2023-05-29,81585,3263.4,5,sneha,5,2023,May,29,2023-05
+1150,Deepak,South,Clothing,Laptop,9,8564,2023-05-30,77076,1712.8000000000002,6,deepak,6,2023,May,30,2023-05
+1151,Ravi,West,Clothing,Headphones,3,28345,2023-05-31,85035,5669.0,4,ravi,4,2023,May,31,2023-05
+1152,Vikas,South,Home Appliances,Jeans,4,49288,2023-06-01,197152,9857.6,5,vikas,5,2023,June,1,2023-06
+1153,Pooja,South,Electronics,Shirt,9,29687,2023-06-02,267183,5937.400000000001,5,pooja,5,2023,June,2,2023-06
+1154,Anita,West,Home Appliances,Fridge,6,14737,2023-06-03,88422,2947.4,5,anita,5,2023,June,3,2023-06
+1155,Deepak,North,Electronics,Fridge,2,10323,2023-06-04,20646,2064.6,6,deepak,6,2023,June,4,2023-06
+1156,Karan,West,Electronics,Fridge,7,16229,2023-06-05,113603,3245.8,5,karan,5,2023,June,5,2023-06
+1157,Amit,North,Accessories,Camera,2,45481,2023-06-06,90962,9096.2,4,amit,4,2023,June,6,2023-06
+1158,Ravi,North,Electronics,Microwave,2,9502,2023-06-07,19004,1900.4,4,ravi,4,2023,June,7,2023-06
+1159,Neha,North,Home Appliances,Microwave,1,1545,2023-06-08,1545,309.0,4,neha,4,2023,June,8,2023-06
+1160,Anita,West,Clothing,Mobile,3,38114,2023-06-09,114342,7622.8,5,anita,5,2023,June,9,2023-06
+1161,Pooja,North,Electronics,Shirt,6,30430,2023-06-10,182580,6086.0,5,pooja,5,2023,June,10,2023-06
+1162,Anita,East,Accessories,Fridge,8,10996,2023-06-11,87968,2199.2000000000003,5,anita,5,2023,June,11,2023-06
+1163,Deepak,West,Home Appliances,Microwave,9,28788,2023-06-12,259092,5757.6,6,deepak,6,2023,June,12,2023-06
+1164,Sneha,East,Electronics,Camera,7,30969,2023-06-13,216783,6193.8,5,sneha,5,2023,June,13,2023-06
+1165,Amit,North,Home Appliances,Mobile,4,49543,2023-06-14,198172,9908.6,4,amit,4,2023,June,14,2023-06
+1166,Amit,South,Accessories,Jeans,6,14919,2023-06-15,89514,2983.8,4,amit,4,2023,June,15,2023-06
+1167,Neha,North,Accessories,Mobile,5,4810,2023-06-16,24050,962.0,4,neha,4,2023,June,16,2023-06
+1168,Sneha,East,Home Appliances,Microwave,8,31586,2023-06-17,252688,6317.200000000001,5,sneha,5,2023,June,17,2023-06
+1169,Vikas,East,Electronics,Headphones,1,40974,2023-06-18,40974,8194.800000000001,5,vikas,5,2023,June,18,2023-06
+1170,Priya,West,Clothing,Camera,1,42773,2023-06-19,42773,8554.6,5,priya,5,2023,June,19,2023-06
+1171,Ravi,South,Accessories,Headphones,6,17371,2023-06-20,104226,3474.2000000000003,4,ravi,4,2023,June,20,2023-06
+1172,Amit,West,Electronics,Fridge,2,46084,2023-06-21,92168,9216.8,4,amit,4,2023,June,21,2023-06
+1173,Karan,East,Electronics,Headphones,5,30629,2023-06-22,153145,6125.8,5,karan,5,2023,June,22,2023-06
+1174,Amit,North,Clothing,Fridge,1,9436,2023-06-23,9436,1887.2,4,amit,4,2023,June,23,2023-06
+1175,Anita,South,Accessories,Fridge,7,13984,2023-06-24,97888,2796.8,5,anita,5,2023,June,24,2023-06
+1176,Amit,North,Accessories,Microwave,1,34039,2023-06-25,34039,6807.8,4,amit,4,2023,June,25,2023-06
+1177,Amit,North,Electronics,Headphones,4,20895,2023-06-26,83580,4179.0,4,amit,4,2023,June,26,2023-06
+1178,Priya,South,Electronics,Fridge,9,19155,2023-06-27,172395,3831.0,5,priya,5,2023,June,27,2023-06
+1179,Priya,West,Clothing,Shirt,1,11616,2023-06-28,11616,2323.2000000000003,5,priya,5,2023,June,28,2023-06
+1180,Pooja,North,Clothing,Jeans,4,38129,2023-06-29,152516,7625.8,5,pooja,5,2023,June,29,2023-06
+1181,Vikas,East,Accessories,Mobile,6,40837,2023-06-30,245022,8167.400000000001,5,vikas,5,2023,June,30,2023-06
+1182,Karan,North,Home Appliances,Mobile,6,25574,2023-07-01,153444,5114.8,5,karan,5,2023,July,1,2023-07
+1183,Amit,South,Accessories,Microwave,8,4430,2023-07-02,35440,886.0,4,amit,4,2023,July,2,2023-07
+1184,Amit,South,Electronics,Headphones,1,13676,2023-07-03,13676,2735.2000000000003,4,amit,4,2023,July,3,2023-07
+1185,Ravi,South,Accessories,Headphones,7,11816,2023-07-04,82712,2363.2000000000003,4,ravi,4,2023,July,4,2023-07
+1186,Priya,West,Home Appliances,Fridge,1,33733,2023-07-05,33733,6746.6,5,priya,5,2023,July,5,2023-07
+1187,Karan,North,Clothing,Camera,7,21144,2023-07-06,148008,4228.8,5,karan,5,2023,July,6,2023-07
+1188,Neha,West,Home Appliances,Laptop,3,3050,2023-07-07,9150,610.0,4,neha,4,2023,July,7,2023-07
+1189,Pooja,West,Home Appliances,Fridge,8,45460,2023-07-08,363680,9092.0,5,pooja,5,2023,July,8,2023-07
+1190,Vikas,South,Home Appliances,Jeans,3,34933,2023-07-09,104799,6986.6,5,vikas,5,2023,July,9,2023-07
+1191,Sneha,South,Clothing,Shirt,1,25951,2023-07-10,25951,5190.200000000001,5,sneha,5,2023,July,10,2023-07
+1192,Vikas,West,Home Appliances,Mobile,8,33413,2023-07-11,267304,6682.6,5,vikas,5,2023,July,11,2023-07
+1193,Anita,North,Home Appliances,Fridge,3,35801,2023-07-12,107403,7160.200000000001,5,anita,5,2023,July,12,2023-07
+1194,Amit,East,Home Appliances,Laptop,2,33913,2023-07-13,67826,6782.6,4,amit,4,2023,July,13,2023-07
+1195,Pooja,West,Electronics,Laptop,1,48037,2023-07-14,48037,9607.4,5,pooja,5,2023,July,14,2023-07
+1196,Anita,North,Home Appliances,Fridge,3,41600,2023-07-15,124800,8320.0,5,anita,5,2023,July,15,2023-07
+1197,Karan,South,Clothing,Microwave,2,26280,2023-07-16,52560,5256.0,5,karan,5,2023,July,16,2023-07
+1198,Sneha,South,Home Appliances,Mobile,2,25557,2023-07-17,51114,5111.400000000001,5,sneha,5,2023,July,17,2023-07
+1199,Priya,North,Home Appliances,Microwave,6,48054,2023-07-18,288324,9610.8,5,priya,5,2023,July,18,2023-07
+1200,Pooja,East,Clothing,Shirt,1,36400,2023-07-19,36400,7280.0,5,pooja,5,2023,July,19,2023-07
+1201,Pooja,South,Home Appliances,Laptop,2,5494,2023-07-20,10988,1098.8,5,pooja,5,2023,July,20,2023-07
+1202,Amit,South,Clothing,Laptop,6,16152,2023-07-21,96912,3230.4,4,amit,4,2023,July,21,2023-07
+1203,Deepak,South,Home Appliances,Jeans,3,24895,2023-07-22,74685,4979.0,6,deepak,6,2023,July,22,2023-07
+1204,Pooja,North,Clothing,Shirt,4,10155,2023-07-23,40620,2031.0,5,pooja,5,2023,July,23,2023-07
+1205,Ravi,West,Home Appliances,Laptop,1,32883,2023-07-24,32883,6576.6,4,ravi,4,2023,July,24,2023-07
+1206,Sneha,South,Home Appliances,Shirt,8,44194,2023-07-25,353552,8838.800000000001,5,sneha,5,2023,July,25,2023-07
+1207,Sneha,West,Electronics,Mobile,7,44001,2023-07-26,308007,8800.2,5,sneha,5,2023,July,26,2023-07
+1208,Ravi,East,Electronics,Headphones,7,2828,2023-07-27,19796,565.6,4,ravi,4,2023,July,27,2023-07
+1209,Neha,South,Home Appliances,Laptop,3,46028,2023-07-28,138084,9205.6,4,neha,4,2023,July,28,2023-07
+1210,Ravi,South,Home Appliances,Jeans,3,42898,2023-07-29,128694,8579.6,4,ravi,4,2023,July,29,2023-07
+1211,Ravi,East,Accessories,Mobile,2,33123,2023-07-30,66246,6624.6,4,ravi,4,2023,July,30,2023-07
+1212,Sneha,South,Clothing,Fridge,1,38573,2023-07-31,38573,7714.6,5,sneha,5,2023,July,31,2023-07
+1213,Vikas,West,Accessories,Shirt,7,1806,2023-08-01,12642,361.2000000000001,5,vikas,5,2023,August,1,2023-08
+1214,Sneha,North,Electronics,Fridge,7,41970,2023-08-02,293790,8394.0,5,sneha,5,2023,August,2,2023-08
+1215,Deepak,West,Electronics,Microwave,2,30757,2023-08-03,61514,6151.400000000001,6,deepak,6,2023,August,3,2023-08
+1216,Amit,North,Electronics,Mobile,7,35636,2023-08-04,249452,7127.200000000001,4,amit,4,2023,August,4,2023-08
+1217,Anita,North,Electronics,Fridge,8,15561,2023-08-05,124488,3112.2000000000003,5,anita,5,2023,August,5,2023-08
+1218,Vikas,West,Home Appliances,Camera,1,49280,2023-08-06,49280,9856.0,5,vikas,5,2023,August,6,2023-08
+1219,Priya,West,Electronics,Camera,9,25262,2023-08-07,227358,5052.400000000001,5,priya,5,2023,August,7,2023-08
+1220,Anita,West,Home Appliances,Laptop,7,15899,2023-08-08,111293,3179.8,5,anita,5,2023,August,8,2023-08
+1221,Amit,West,Home Appliances,Shirt,3,49988,2023-08-09,149964,9997.6,4,amit,4,2023,August,9,2023-08
+1222,Deepak,East,Electronics,Headphones,8,16934,2023-08-10,135472,3386.8,6,deepak,6,2023,August,10,2023-08
+1223,Deepak,South,Electronics,Mobile,7,39197,2023-08-11,274379,7839.400000000001,6,deepak,6,2023,August,11,2023-08
+1224,Priya,North,Clothing,Laptop,8,42844,2023-08-12,342752,8568.800000000001,5,priya,5,2023,August,12,2023-08
+1225,Vikas,West,Accessories,Jeans,6,37332,2023-08-13,223992,7466.400000000001,5,vikas,5,2023,August,13,2023-08
+1226,Neha,West,Electronics,Microwave,9,35157,2023-08-14,316413,7031.400000000001,4,neha,4,2023,August,14,2023-08
+1227,Ravi,West,Clothing,Shirt,5,12593,2023-08-15,62965,2518.6000000000004,4,ravi,4,2023,August,15,2023-08
+1228,Vikas,East,Clothing,Mobile,3,41042,2023-08-16,123126,8208.4,5,vikas,5,2023,August,16,2023-08
+1229,Neha,West,Accessories,Camera,3,18320,2023-08-17,54960,3664.0,4,neha,4,2023,August,17,2023-08
+1230,Deepak,West,Home Appliances,Mobile,1,28376,2023-08-18,28376,5675.200000000001,6,deepak,6,2023,August,18,2023-08
+1231,Sneha,West,Electronics,Headphones,8,44513,2023-08-19,356104,8902.6,5,sneha,5,2023,August,19,2023-08
+1232,Amit,South,Accessories,Camera,2,15199,2023-08-20,30398,3039.8,4,amit,4,2023,August,20,2023-08
+1233,Priya,East,Electronics,Headphones,3,16876,2023-08-21,50628,3375.2000000000003,5,priya,5,2023,August,21,2023-08
+1234,Amit,West,Clothing,Jeans,8,9245,2023-08-22,73960,1849.0,4,amit,4,2023,August,22,2023-08
+1235,Karan,North,Clothing,Microwave,8,8214,2023-08-23,65712,1642.8000000000002,5,karan,5,2023,August,23,2023-08
+1236,Karan,North,Home Appliances,Jeans,4,1726,2023-08-24,6904,345.20000000000005,5,karan,5,2023,August,24,2023-08
+1237,Vikas,North,Clothing,Laptop,4,47600,2023-08-25,190400,9520.0,5,vikas,5,2023,August,25,2023-08
+1238,Deepak,East,Clothing,Laptop,5,12362,2023-08-26,61810,2472.4,6,deepak,6,2023,August,26,2023-08
+1239,Deepak,East,Accessories,Jeans,6,19297,2023-08-27,115782,3859.4,6,deepak,6,2023,August,27,2023-08
+1240,Ravi,North,Electronics,Microwave,5,31448,2023-08-28,157240,6289.6,4,ravi,4,2023,August,28,2023-08
+1241,Ravi,West,Electronics,Jeans,7,27172,2023-08-29,190204,5434.400000000001,4,ravi,4,2023,August,29,2023-08
+1242,Ravi,East,Accessories,Microwave,2,43874,2023-08-30,87748,8774.800000000001,4,ravi,4,2023,August,30,2023-08
+1243,Sneha,North,Home Appliances,Microwave,7,8657,2023-08-31,60599,1731.4,5,sneha,5,2023,August,31,2023-08
+1244,Anita,North,Electronics,Fridge,7,19850,2023-09-01,138950,3970.0,5,anita,5,2023,September,1,2023-09
+1245,Pooja,West,Clothing,Camera,1,26425,2023-09-02,26425,5285.0,5,pooja,5,2023,September,2,2023-09
+1246,Anita,South,Electronics,Shirt,7,27685,2023-09-03,193795,5537.0,5,anita,5,2023,September,3,2023-09
+1247,Amit,East,Clothing,Microwave,5,48319,2023-09-04,241595,9663.8,4,amit,4,2023,September,4,2023-09
+1248,Anita,West,Home Appliances,Headphones,3,25578,2023-09-05,76734,5115.6,5,anita,5,2023,September,5,2023-09
+1249,Sneha,North,Accessories,Microwave,3,29831,2023-09-06,89493,5966.200000000001,5,sneha,5,2023,September,6,2023-09
+1250,Amit,North,Electronics,Microwave,4,8906,2023-09-07,35624,1781.2,4,amit,4,2023,September,7,2023-09
+1251,Anita,West,Accessories,Microwave,2,8287,2023-09-08,16574,1657.4,5,anita,5,2023,September,8,2023-09
+1252,Sneha,East,Electronics,Fridge,2,34660,2023-09-09,69320,6932.0,5,sneha,5,2023,September,9,2023-09
+1253,Pooja,South,Clothing,Camera,1,11222,2023-09-10,11222,2244.4,5,pooja,5,2023,September,10,2023-09
+1254,Anita,South,Accessories,Fridge,5,38443,2023-09-11,192215,7688.6,5,anita,5,2023,September,11,2023-09
+1255,Sneha,North,Electronics,Laptop,4,35701,2023-09-12,142804,7140.200000000001,5,sneha,5,2023,September,12,2023-09
+1256,Ravi,East,Clothing,Fridge,2,18764,2023-09-13,37528,3752.8,4,ravi,4,2023,September,13,2023-09
+1257,Deepak,South,Accessories,Headphones,3,45641,2023-09-14,136923,9128.2,6,deepak,6,2023,September,14,2023-09
+1258,Ravi,East,Accessories,Headphones,7,18674,2023-09-15,130718,3734.8,4,ravi,4,2023,September,15,2023-09
+1259,Deepak,East,Electronics,Fridge,7,19024,2023-09-16,133168,3804.8,6,deepak,6,2023,September,16,2023-09
+1260,Priya,North,Electronics,Camera,4,47007,2023-09-17,188028,9401.4,5,priya,5,2023,September,17,2023-09
+1261,Priya,South,Electronics,Jeans,5,24874,2023-09-18,124370,4974.8,5,priya,5,2023,September,18,2023-09
+1262,Priya,West,Clothing,Shirt,5,44642,2023-09-19,223210,8928.4,5,priya,5,2023,September,19,2023-09
+1263,Pooja,North,Electronics,Camera,6,33284,2023-09-20,199704,6656.8,5,pooja,5,2023,September,20,2023-09
+1264,Ravi,South,Accessories,Fridge,9,18602,2023-09-21,167418,3720.4,4,ravi,4,2023,September,21,2023-09
+1265,Deepak,South,Accessories,Microwave,2,38784,2023-09-22,77568,7756.8,6,deepak,6,2023,September,22,2023-09
+1266,Sneha,South,Electronics,Mobile,5,24265,2023-09-23,121325,4853.0,5,sneha,5,2023,September,23,2023-09
+1267,Amit,South,Electronics,Shirt,3,26931,2023-09-24,80793,5386.200000000001,4,amit,4,2023,September,24,2023-09
+1268,Sneha,South,Home Appliances,Shirt,4,29841,2023-09-25,119364,5968.200000000001,5,sneha,5,2023,September,25,2023-09
+1269,Amit,East,Accessories,Headphones,6,30192,2023-09-26,181152,6038.400000000001,4,amit,4,2023,September,26,2023-09
+1270,Karan,North,Clothing,Shirt,8,47542,2023-09-27,380336,9508.4,5,karan,5,2023,September,27,2023-09
+1271,Sneha,East,Home Appliances,Fridge,1,43520,2023-09-28,43520,8704.0,5,sneha,5,2023,September,28,2023-09
+1272,Anita,West,Electronics,Microwave,8,16585,2023-09-29,132680,3317.0,5,anita,5,2023,September,29,2023-09
+1273,Anita,South,Electronics,Microwave,7,26559,2023-09-30,185913,5311.8,5,anita,5,2023,September,30,2023-09
+1274,Vikas,North,Accessories,Laptop,1,41059,2023-10-01,41059,8211.800000000001,5,vikas,5,2023,October,1,2023-10
+1275,Ravi,South,Electronics,Microwave,2,34742,2023-10-02,69484,6948.400000000001,4,ravi,4,2023,October,2,2023-10
+1276,Amit,North,Clothing,Camera,3,5133,2023-10-03,15399,1026.6,4,amit,4,2023,October,3,2023-10
+1277,Amit,East,Accessories,Microwave,1,15663,2023-10-04,15663,3132.6000000000004,4,amit,4,2023,October,4,2023-10
+1278,Ravi,North,Electronics,Headphones,9,22754,2023-10-05,204786,4550.8,4,ravi,4,2023,October,5,2023-10
+1279,Pooja,West,Accessories,Microwave,8,4972,2023-10-06,39776,994.4,5,pooja,5,2023,October,6,2023-10
+1280,Vikas,West,Electronics,Laptop,2,6295,2023-10-07,12590,1259.0,5,vikas,5,2023,October,7,2023-10
+1281,Pooja,North,Electronics,Mobile,9,47681,2023-10-08,429129,9536.2,5,pooja,5,2023,October,8,2023-10
+1282,Pooja,North,Electronics,Fridge,7,42873,2023-10-09,300111,8574.6,5,pooja,5,2023,October,9,2023-10
+1283,Pooja,North,Clothing,Headphones,9,30125,2023-10-10,271125,6025.0,5,pooja,5,2023,October,10,2023-10
+1284,Ravi,North,Clothing,Camera,6,41996,2023-10-11,251976,8399.2,4,ravi,4,2023,October,11,2023-10
+1285,Pooja,West,Accessories,Mobile,6,10903,2023-10-12,65418,2180.6,5,pooja,5,2023,October,12,2023-10
+1286,Anita,South,Electronics,Headphones,4,4020,2023-10-13,16080,804.0,5,anita,5,2023,October,13,2023-10
+1287,Priya,North,Electronics,Jeans,2,42755,2023-10-14,85510,8551.0,5,priya,5,2023,October,14,2023-10
+1288,Karan,North,Clothing,Shirt,7,21420,2023-10-15,149940,4284.0,5,karan,5,2023,October,15,2023-10
+1289,Amit,West,Electronics,Jeans,5,22452,2023-10-16,112260,4490.400000000001,4,amit,4,2023,October,16,2023-10
+1290,Amit,West,Clothing,Microwave,6,46648,2023-10-17,279888,9329.6,4,amit,4,2023,October,17,2023-10
+1291,Karan,East,Electronics,Mobile,2,39001,2023-10-18,78002,7800.200000000001,5,karan,5,2023,October,18,2023-10
+1292,Ravi,North,Accessories,Microwave,5,10516,2023-10-19,52580,2103.2000000000003,4,ravi,4,2023,October,19,2023-10
+1293,Sneha,East,Electronics,Shirt,4,48327,2023-10-20,193308,9665.4,5,sneha,5,2023,October,20,2023-10
+1294,Ravi,West,Electronics,Headphones,9,3396,2023-10-21,30564,679.2,4,ravi,4,2023,October,21,2023-10
+1295,Amit,West,Home Appliances,Shirt,6,19546,2023-10-22,117276,3909.2,4,amit,4,2023,October,22,2023-10
+1296,Amit,South,Clothing,Laptop,2,20129,2023-10-23,40258,4025.8,4,amit,4,2023,October,23,2023-10
+1297,Karan,North,Electronics,Shirt,1,2591,2023-10-24,2591,518.2,5,karan,5,2023,October,24,2023-10
+1298,Pooja,East,Electronics,Laptop,5,12303,2023-10-25,61515,2460.6000000000004,5,pooja,5,2023,October,25,2023-10
+1299,Ravi,West,Home Appliances,Shirt,9,31561,2023-10-26,284049,6312.200000000001,4,ravi,4,2023,October,26,2023-10
+1300,Deepak,West,Home Appliances,Fridge,6,7183,2023-10-27,43098,1436.6,6,deepak,6,2023,October,27,2023-10

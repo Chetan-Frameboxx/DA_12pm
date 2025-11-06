@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <form id="myForm">
+      <label for="email">Email:</label>
+      <input type="text" id="email" name="email" />
+      <br />
+      <button type="submit">Submit</button>
+    </form>
+    <script>
+        const span = document.createElement("span");
+        span.textContent = "Email is required!";
+        span.style.color = "red";
+    </script>
+  </body>
+</html>

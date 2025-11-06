@@ -1,0 +1,251 @@
+OrderID,Customer,Region,Category,Product,Sales,Quantity,Date
+101,David,West,Accessories,Cover,45244,6,2025-08-06
+102,Michael,South,Electronics,Headphones,16124,1,2025-03-25
+103,Theresa,North,Electronics,Headphones,17336,1,2025-04-23
+104,Laura,South,Electronics,Mobile,42374,10,2025-04-18
+105,James,North,Accessories,Bag,18111,10,2025-06-21
+106, Wendy*,South,Electronics,Laptop,70553,9,2025-07-23
+107,Thomas,South,Electronics,Headphones,68605,9,2025-08-27
+108, John ,South,Accessories,Bag,43373,11,2025-07-27
+109,Christine,East,Electronics,Tablet,35760,11,2025-04-25
+110,Christopher,North,Electronics,Laptop,69762,5,2025-03-25
+111,Dan,West,Accessories,Bag,33185,5,2025-06-23
+112,Kristin,East,Accessories,Bag,66858,3,2025-06-17
+113,Cathy,East,Accessories,Charger,44202,8,2025-03-19
+114,Bryce,South,Accessories,Mouse,7594,7,2025-08-28
+115,Molly,East,Electronics,Camera,42598,7,2025-06-03
+116,Frank,West,Electronics,Tablet,69516,8,2025-08-05
+117,Edwin,North,Accessories,Bag,13303,5,2025-04-15
+118,Patrick,East,Accessories,Charger,63213,2,2025-08-10
+119,Nicholas,South,Accessories,Bag,51472,9,2025-03-23
+120,Jimmy,South,Accessories,Bag,27334,4,2025-08-18
+121,Kevin,East,Accessories,Charger,7603,10,2025-05-16
+122,Douglas,East,Electronics,Tablet,7144,8,2025-08-06
+123,Patricia,North,Electronics,Mobile,14430,4,2025-07-10
+124,Brianna,East,Accessories,Keyboard,11307,7,2025-08-18
+125,Stacey,West,Accessories,Bag,11748,8,2025-06-02
+126,Alyssa,West,Electronics,Laptop,20720,3,2025-08-15
+127,Kimberly,South,Accessories,Mouse,68505,3,2025-07-10
+128,Joseph,West,Electronics,Headphones,76115,3,2025-05-06
+129,Lori,West,Electronics,Monitor,40012,9,2025-09-03
+130,Jessica,West,Electronics,Camera,14600,11,2025-05-11
+131, Kendra ,North,Electronics,Monitor,76746,2,2025-07-15
+132,Brandon,West,Electronics,Tablet,58492,10,2025-05-09
+133,Sheila,West,Electronics,Mobile,62179,7,2025-05-14
+134,Justin,North,Accessories,Cover,62982,3,2025-05-25
+135,Randall,East,Electronics,Headphones,36070,1,2025-05-11
+136,Kerri,West,Electronics,Tablet,7752,10,2025-08-16
+137, Crystal!,North,Electronics,Monitor,20708,6,2025-04-23
+138,Bryan,North,Electronics,Headphones,53549,12,2025-03-16
+139,Mary,North,Electronics,Monitor,40270,5,2025-04-18
+140,Caleb,West,Accessories,Keyboard,10884,11,2025-09-05
+141,Edward,West,Accessories,Bag,57105,2,2025-06-28
+142,Anita,West,Accessories,Keyboard,70301,4,2025-07-07
+143,Vanessa,West,Electronics,Headphones,68953,11,2025-08-05
+144,Garrett,East,Electronics,Headphones,79329,1,2025-03-31
+145,Alyssa,South,Electronics,Tablet,37535,2,2025-04-09
+146,Nicole,East,Electronics,Mobile,19768,8,2025-03-25
+147, Albert ,East,Electronics,Headphones,55406,2,2025-05-27
+148, Daniel*,South,Electronics,Laptop,54442,12,2025-07-11
+149,Dustin,North,Accessories,Bag,48678,7,2025-06-15
+150,Elizabeth,West,Electronics,Headphones,23077,7,2025-07-05
+151, Robert!,East,Electronics,Tablet,32122,11,2025-05-22
+152,Gabrielle,West,Accessories,Cover,13959,5,2025-09-08
+153, Ricardo*,East,Accessories,Mouse,63486,8,2025-04-30
+154,Tracy,North,Electronics,Mobile,71400,11,2025-06-27
+155,Maxwell,North,Electronics,Headphones,10179,2,2025-05-07
+156, Sean*,North,Accessories,Cover,67446,10,2025-04-03
+157, Christopher*,North,Accessories,Mouse,68424,7,2025-07-17
+158, Christian ,South,Electronics,Laptop,26525,9,2025-04-13
+159,Katherine,West,Electronics,Tablet,18619,2,2025-04-10
+160, Mary*,South,Accessories,Charger,46234,11,2025-08-17
+161,Nicholas,East,Electronics,Tablet,72550,11,2025-06-03
+162, David!,North,Electronics,Mobile,48144,11,2025-07-16
+163,David,East,Electronics,Monitor,32292,10,2025-07-23
+164,Kristen,West,Electronics,Mobile,43462,6,2025-08-19
+165,Erika,South,Electronics,Laptop,8773,8,2025-03-24
+166,Samuel,South,Electronics,Monitor,57920,10,2025-09-14
+167,Kathryn,East,Electronics,Headphones,18166,3,2025-06-25
+168, Miguel*,West,Accessories,Cover,50889,1,2025-06-14
+169,Brittney,West,Accessories,Bag,19296,3,2025-05-06
+170,Theodore,South,Electronics,Monitor,60618,11,2025-07-18
+171,Brandon,North,Electronics,Tablet,4542,8,2025-07-07
+172,Matthew,West,Electronics,Camera,69379,8,2025-09-06
+173,Bruce,South,Electronics,Laptop,5257,3,2025-05-30
+174,Linda,West,Accessories,Cover,70198,1,2025-04-21
+175,Lisa,East,Accessories,Mouse,14125,5,2025-08-09
+176,Michelle,East,Accessories,Keyboard,32936,6,2025-06-13
+177, James ,South,Accessories,Bag,58724,2,2025-04-18
+178,Joshua,East,Accessories,Mouse,25735,7,2025-04-25
+179,Veronica,South,Accessories,Charger,63910,10,2025-08-10
+180,James,North,Accessories,Mouse,52395,7,2025-08-12
+181, Jesus ,North,Accessories,Keyboard,48917,2,2025-06-03
+182, Wesley!,South,Electronics,Headphones,31795,4,2025-07-03
+183,Christine,South,Electronics,Camera,51169,12,2025-07-19
+184,Misty,East,Accessories,Mouse,38901,9,2025-05-01
+185,Steven,South,Accessories,Keyboard,69249,6,2025-08-10
+186, Kimberly ,West,Electronics,Monitor,52211,1,2025-03-23
+187,Joseph,West,Accessories,Keyboard,53548,5,2025-05-09
+188,Joseph,East,Electronics,Mobile,60099,5,2025-04-11
+189,Amy,North,Accessories,Keyboard,49861,12,2025-09-11
+190,Gary,East,Accessories,Charger,18457,4,2025-07-20
+191,Diana,North,Accessories,Keyboard,34132,12,2025-08-29
+192,Cindy,South,Electronics,Camera,67204,11,2025-08-31
+193,Brian,North,Accessories,Cover,56534,5,2025-09-06
+194,Christian,West,Accessories,Charger,49213,9,2025-05-31
+195,Sarah,East,Accessories,Cover,44802,2,2025-08-15
+196,Alexandra,South,Electronics,Monitor,19246,10,2025-07-17
+197,Jennifer,West,Accessories,Charger,22595,1,2025-05-16
+198, Kenneth!,East,Electronics,Camera,56110,4,2025-09-05
+199, Theresa*,South,Electronics,Camera,38989,11,2025-09-10
+200,Lisa,North,Accessories,Bag,40072,4,2025-08-10
+201,Richard,East,Accessories,Cover,71809,1,2025-08-29
+202,Maria,North,Electronics,Laptop,16326,1,2025-06-29
+203, Jacob ,East,Electronics,Laptop,26662,10,2025-08-07
+204, Kenneth*,West,Electronics,Monitor,15848,4,2025-04-11
+205,Kevin,West,Electronics,Tablet,18959,4,2025-08-23
+206, Natasha*,North,Accessories,Bag,8516,6,2025-05-11
+207,Andrea,South,Electronics,Mobile,79406,5,2025-08-24
+208, Robert!,East,Accessories,Keyboard,39168,2,2025-06-11
+209,Kimberly,West,Accessories,Charger,52352,12,2025-08-06
+210,Kristin,North,Accessories,Charger,23532,6,2025-03-31
+211,Shannon,South,Electronics,Camera,16806,1,2025-07-30
+212,Martin,West,Electronics,Camera,59024,8,2025-07-17
+213,Whitney,North,Electronics,Laptop,19827,1,2025-06-24
+214,Paul,North,Electronics,Mobile,53454,2,2025-04-20
+215,David,North,Accessories,Bag,27098,12,2025-07-06
+216,Thomas,North,Accessories,Charger,69417,6,2025-05-13
+217,Lisa,North,Accessories,Keyboard,32391,2,2025-05-16
+218,Joseph,East,Electronics,Camera,69772,10,2025-07-16
+219,David,West,Electronics,Laptop,39183,12,2025-04-13
+220,Jose,East,Electronics,Tablet,21752,8,2025-08-24
+221,Tonya,North,Accessories,Cover,78461,4,2025-07-13
+222, Troy*,South,Accessories,Cover,62710,1,2025-08-14
+223,Angela,East,Accessories,Bag,54563,12,2025-08-14
+224,Jennifer,North,Accessories,Keyboard,76693,1,2025-06-14
+225,Chase,South,Electronics,Laptop,22175,10,2025-06-28
+226,Jake,West,Electronics,Tablet,74539,5,2025-06-26
+227,Bradley,West,Accessories,Mouse,36201,11,2025-09-03
+228,Scott,South,Accessories,Bag,39452,2,2025-07-14
+229,Savannah,East,Electronics,Camera,12873,9,2025-05-03
+230,Kaylee,East,Accessories,Charger,31046,3,2025-06-25
+231,Lindsay,North,Accessories,Cover,67449,6,2025-06-21
+232,Christine,East,Accessories,Bag,37126,10,2025-07-10
+233,Robert,South,Electronics,Laptop,35037,12,2025-08-24
+234,Alexander,North,Accessories,Mouse,77860,1,2025-05-01
+235,Erin,North,Accessories,Bag,40075,3,2025-05-16
+236, Bryan!,South,Accessories,Mouse,12308,2,2025-07-19
+237,Sonya,East,Accessories,Keyboard,49223,1,2025-03-21
+238,Cynthia,South,Electronics,Mobile,38190,3,2025-05-26
+239,Sean,East,Accessories,Cover,74956,11,2025-03-16
+240,Travis,East,Electronics,Tablet,31899,1,2025-07-06
+241,Peter,North,Accessories,Charger,71663,11,2025-03-17
+242,Jessica,North,Accessories,Keyboard,28095,9,2025-08-03
+243,Deborah,South,Accessories,Keyboard,79219,6,2025-04-04
+244,Megan,East,Accessories,Mouse,32753,3,2025-07-19
+245,Rachel,South,Accessories,Keyboard,41879,11,2025-06-12
+246, Denise!,North,Electronics,Monitor,66697,8,2025-06-17
+247,Shawn,East,Electronics,Mobile,14802,9,2025-04-15
+248,Brian,East,Electronics,Headphones,62900,11,2025-03-30
+249, Tara*,South,Accessories,Mouse,60274,4,2025-09-09
+250, Martha!,West,Accessories,Charger,32405,6,2025-05-31
+251,James,North,Electronics,Mobile,76461,12,2025-08-19
+252, Jim!,West,Accessories,Cover,40231,8,2025-05-13
+253, Krystal!,East,Electronics,Monitor,78230,5,2025-08-19
+254,Daniel,West,Accessories,Mouse,38282,5,2025-05-19
+255,Lindsay,East,Accessories,Mouse,31763,3,2025-07-10
+256,Kelly,South,Accessories,Charger,44462,6,2025-05-29
+257,Kevin,North,Accessories,Mouse,59726,12,2025-08-29
+258,Kristy,South,Electronics,Mobile,25413,10,2025-06-28
+259,Bradley,South,Electronics,Camera,8504,4,2025-05-13
+260, Diane ,North,Electronics,Monitor,55175,4,2025-07-09
+261,Manuel,South,Electronics,Laptop,41860,4,2025-08-14
+262, Darrell!,North,Electronics,Headphones,70471,11,2025-09-02
+263,Derek,North,Electronics,Headphones,58563,1,2025-08-22
+264,Daniel,West,Accessories,Bag,62843,12,2025-04-30
+265,Paul,West,Electronics,Tablet,62411,7,2025-04-13
+266, Christopher!,West,Electronics,Headphones,40615,5,2025-05-09
+267,David,West,Electronics,Mobile,10744,1,2025-06-04
+268,Dana,North,Accessories,Cover,21004,8,2025-07-16
+269,Brett,South,Electronics,Laptop,49730,6,2025-04-04
+270,Jodi,West,Electronics,Mobile,65700,9,2025-07-28
+271,Michael,North,Accessories,Keyboard,43160,12,2025-06-21
+272,David,North,Electronics,Monitor,52779,8,2025-05-01
+273,Kevin,East,Electronics,Mobile,35503,8,2025-03-25
+274,Mary,South,Electronics,Tablet,73812,3,2025-09-04
+275,Richard,West,Accessories,Mouse,55634,3,2025-06-24
+276,John,North,Electronics,Tablet,66916,10,2025-03-18
+277,Zachary,West,Accessories,Bag,62077,1,2025-04-08
+278,Margaret,East,Electronics,Laptop,48410,11,2025-04-19
+279,Nicholas,South,Electronics,Tablet,66241,3,2025-06-23
+280, Crystal ,East,Accessories,Mouse,47449,4,2025-04-09
+281,Carl,West,Electronics,Camera,15433,12,2025-04-29
+282,Edward,North,Electronics,Monitor,9771,1,2025-05-20
+283,Heather,West,Accessories,Mouse,71251,4,2025-05-24
+284,Amy,South,Accessories,Charger,65851,4,2025-09-06
+285, Denise!,North,Electronics,Camera,38767,8,2025-03-22
+286,Erik,North,Accessories,Keyboard,65785,10,2025-03-28
+287,Barbara,North,Electronics,Mobile,76610,5,2025-07-17
+288, David!,North,Electronics,Headphones,65451,9,2025-05-12
+289,Jennifer,West,Accessories,Mouse,79836,7,2025-04-19
+290,Douglas,North,Accessories,Cover,77153,8,2025-04-24
+291,Brooke,East,Accessories,Mouse,58799,4,2025-09-05
+292,James,South,Electronics,Mobile,18677,6,2025-05-16
+293,Catherine,West,Electronics,Camera,51419,3,2025-08-31
+294,Bradley,South,Accessories,Charger,71225,9,2025-08-10
+295,Richard,East,Electronics,Monitor,36251,7,2025-08-01
+296,Andrew,North,Electronics,Laptop,9080,1,2025-08-22
+297, Samuel!,West,Electronics,Mobile,29984,1,2025-06-25
+298,Carolyn,East,Accessories,Bag,72803,9,2025-03-19
+299,Robert,East,Electronics,Headphones,22666,4,2025-06-11
+300,Robert,West,Accessories,Charger,37585,11,2025-09-08
+301,Raymond,East,Accessories,Cover,23481,10,2025-04-22
+302,John,East,Accessories,Keyboard,58887,3,2025-07-01
+303,Donna,South,Electronics,Tablet,38138,4,2025-05-15
+304,Mitchell,East,Electronics,Laptop,26971,7,2025-06-14
+305,Denise,North,Accessories,Cover,12573,11,2025-03-28
+306,Jennifer,North,Electronics,Camera,55767,3,2025-04-03
+307,Carl,North,Electronics,Monitor,74754,2,2025-06-01
+308, Sharon*,West,Electronics,Tablet,46135,12,2025-03-18
+309,Joseph,East,Electronics,Tablet,72562,12,2025-09-05
+310,Andrea,South,Accessories,Bag,45275,1,2025-07-01
+311,Kathryn,North,Accessories,Bag,64309,5,2025-07-09
+312,Lindsey,North,Accessories,Mouse,6813,7,2025-08-08
+313,Zachary,South,Accessories,Charger,50979,11,2025-09-14
+314, Frank!,North,Accessories,Keyboard,34390,12,2025-08-14
+315,George,South,Electronics,Monitor,57357,10,2025-08-03
+316,Robert,West,Accessories,Mouse,52250,6,2025-04-24
+317,Frank,North,Accessories,Keyboard,66375,11,2025-09-01
+318,Karen,South,Accessories,Bag,16576,11,2025-09-05
+319,Colleen,South,Electronics,Camera,62279,11,2025-09-14
+320,Kimberly,North,Accessories,Mouse,7947,4,2025-07-14
+321,Holly,East,Electronics,Headphones,68594,6,2025-03-28
+322,Matthew,East,Electronics,Tablet,25502,1,2025-08-26
+323,Christopher,West,Electronics,Camera,28306,7,2025-06-06
+324,Kevin,East,Electronics,Camera,7052,2,2025-06-03
+325,Isaiah,North,Electronics,Laptop,74519,10,2025-03-16
+326,Gregory,South,Accessories,Mouse,75791,4,2025-06-05
+327, John*,North,Electronics,Tablet,67130,11,2025-04-03
+328, Timothy*,West,Electronics,Camera,75939,1,2025-05-27
+329, Susan*,East,Electronics,Monitor,76583,1,2025-07-01
+330, Jeffrey!,South,Accessories,Cover,31441,10,2025-04-22
+331,Jacob,West,Electronics,Mobile,73385,12,2025-05-21
+332,Christopher,South,Electronics,Camera,57446,5,2025-03-27
+333, George*,West,Electronics,Tablet,74942,5,2025-09-06
+334, Patrick!,South,Electronics,Mobile,58917,8,2025-03-21
+335,Leslie,West,Electronics,Headphones,45616,10,2025-03-29
+336,Alec,North,Accessories,Charger,34817,10,2025-08-02
+337,James,South,Accessories,Bag,52743,5,2025-06-25
+338,Bonnie,West,Accessories,Mouse,63019,9,2025-06-03
+339,Charles,North,Electronics,Tablet,63542,3,2025-07-10
+340,Shannon,North,Electronics,Laptop,37545,5,2025-05-13
+341,Andrew,West,Electronics,Laptop,71688,10,2025-05-21
+342, Eric*,North,Electronics,Headphones,19135,1,2025-05-29
+343,Ashley,North,Electronics,Headphones,50656,11,2025-06-27
+344,Laura,West,Accessories,Cover,16281,5,2025-03-30
+345, Jennifer*,West,Accessories,Cover,11326,2,2025-07-23
+346,William,East,Accessories,Bag,29188,7,2025-06-28
+347, Hannah*,West,Electronics,Mobile,18798,6,2025-07-25
+348,Melissa,West,Accessories,Mouse,22379,11,2025-05-18
+349, Brian!,North,Electronics,Laptop,25181,12,2025-03-21
+350,Joseph,South,Electronics,Laptop,33430,7,2025-09-04
