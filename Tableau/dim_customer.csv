@@ -1,0 +1,41 @@
+customer_id,customer_name,gender,age,city,state,segment
+C201,Customer_1,Female,30,Hyderabad,Kerala,Home Office
+C202,Customer_2,Male,38,Chennai,Telangana,Consumer
+C203,Customer_3,Female,29,Pune,Kerala,Home Office
+C204,Customer_4,Female,20,Jaipur,Karnataka,Corporate
+C205,Customer_5,Male,46,Kochi,Karnataka,Consumer
+C206,Customer_6,Male,29,Pune,Maharashtra,Corporate
+C207,Customer_7,Female,49,Hyderabad,Karnataka,Corporate
+C208,Customer_8,Male,42,Jaipur,Rajasthan,Consumer
+C209,Customer_9,Male,54,Pune,Karnataka,Corporate
+C210,Customer_10,Female,44,Chennai,Rajasthan,Corporate
+C211,Customer_11,Male,20,Delhi,Rajasthan,Corporate
+C212,Customer_12,Female,32,Delhi,Rajasthan,Corporate
+C213,Customer_13,Female,27,Kochi,Delhi,Home Office
+C214,Customer_14,Female,30,Kochi,Delhi,Corporate
+C215,Customer_15,Female,52,Kochi,Karnataka,Consumer
+C216,Customer_16,Female,32,Jaipur,Tamil Nadu,Corporate
+C217,Customer_17,Female,25,Delhi,Delhi,Home Office
+C218,Customer_18,Female,40,Delhi,Rajasthan,Home Office
+C219,Customer_19,Male,32,Bangalore,Delhi,Corporate
+C220,Customer_20,Female,29,Chennai,Karnataka,Consumer
+C221,Customer_21,Female,55,Kochi,Kerala,Consumer
+C222,Customer_22,Male,35,Mumbai,Karnataka,Corporate
+C223,Customer_23,Male,50,Chennai,Karnataka,Consumer
+C224,Customer_24,Female,45,Mumbai,Rajasthan,Corporate
+C225,Customer_25,Male,26,Pune,Telangana,Consumer
+C226,Customer_26,Male,40,Delhi,Tamil Nadu,Consumer
+C227,Customer_27,Female,20,Kochi,Rajasthan,Home Office
+C228,Customer_28,Male,52,Kochi,Delhi,Corporate
+C229,Customer_29,Male,45,Hyderabad,Rajasthan,Home Office
+C230,Customer_30,Male,38,Mumbai,Kerala,Corporate
+C231,Customer_31,Female,45,Mumbai,Maharashtra,Corporate
+C232,Customer_32,Female,44,Mumbai,Rajasthan,Consumer
+C233,Customer_33,Male,29,Mumbai,Kerala,Corporate
+C234,Customer_34,Male,31,Pune,Tamil Nadu,Home Office
+C235,Customer_35,Male,51,Pune,Telangana,Consumer
+C236,Customer_36,Female,58,Delhi,Kerala,Consumer
+C237,Customer_37,Female,34,Hyderabad,Maharashtra,Consumer
+C238,Customer_38,Male,32,Hyderabad,Telangana,Corporate
+C239,Customer_39,Male,28,Kochi,Tamil Nadu,Corporate
+C240,Customer_40,Female,43,Chennai,Kerala,Home Office
